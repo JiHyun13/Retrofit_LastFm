@@ -1,4 +1,4 @@
-package com.example.retropit
+package com.example.retropit.Data
 
 data class Attr(
     val page: String,

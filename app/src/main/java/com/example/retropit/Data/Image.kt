@@ -1,4 +1,4 @@
-package com.example.retropit
+package com.example.retropit.Data
 
 data class Image(
     val text: String,
